@@ -1,0 +1,14 @@
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\bin\Debug\net8.0\Entidad.deps.json
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\bin\Debug\net8.0\Entidad.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\bin\Debug\net8.0\Entidad.pdb
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.AssemblyInfo.cs
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\refint\Entidad.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\Entidad.pdb
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\ref\Entidad.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\bin\Debug\net8.0\entidad.runtimeconfig.json
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\entidad\obj\Debug\net8.0\entidad.genruntimeconfig.cache

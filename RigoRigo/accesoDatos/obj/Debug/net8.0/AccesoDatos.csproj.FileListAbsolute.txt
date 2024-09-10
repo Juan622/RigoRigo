@@ -1,0 +1,17 @@
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\bin\Debug\net8.0\Entidad.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\bin\Debug\net8.0\Entidad.pdb
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\fuaan\Desktop\ProyectoRigo\RigoRigo\accesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
