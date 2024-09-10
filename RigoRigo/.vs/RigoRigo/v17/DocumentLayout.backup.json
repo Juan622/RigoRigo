@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\",
+  "WorkspaceRootPath": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E57E6303-A0BD-4C39-9B7B-4D1A7CDFD935}|Presentacion\\Presentacion.csproj|c:\\users\\fuaan\\desktop\\proyectorigo\\rigorigo\\presentacion\\p_pruductorigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E57E6303-A0BD-4C39-9B7B-4D1A7CDFD935}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\p_pruductorigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|c:\\users\\fuaan\\source\\repos\\rigorigo\\rigorigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|solutionrelative:rigorigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A220A8C6-49A6-4771-A28D-89C10866AC0B}|negocio\\Negocio.csproj|c:\\users\\fuaan\\desktop\\proyectorigo\\rigorigo\\negocio\\n_detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A220A8C6-49A6-4771-A28D-89C10866AC0B}|negocio\\Negocio.csproj|solutionrelative:negocio\\n_detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|c:\\users\\fuaan\\source\\repos\\rigorigo\\rigorigo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|solutionrelative:rigorigo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0CA28B-9F87-45FF-85C7-48EEF7432372}|accesoDatos\\AccesoDatos.csproj|c:\\users\\fuaan\\desktop\\proyectorigo\\rigorigo\\accesodatos\\d_detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0CA28B-9F87-45FF-85C7-48EEF7432372}|accesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\d_detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|c:\\users\\fuaan\\source\\repos\\rigorigo\\rigorigo\\controllers\\productoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|solutionrelative:rigorigo\\controllers\\productoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218C57A-00AC-4922-AD12-B04CD552C6EA}|RigoRigo.AccesoDatos\\RigoRigo.AccesoDatos.csproj|c:\\users\\fuaan\\source\\repos\\rigorigo\\rigorigo.accesodatos\\d_detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218C57A-00AC-4922-AD12-B04CD552C6EA}|RigoRigo.AccesoDatos\\RigoRigo.AccesoDatos.csproj|solutionrelative:rigorigo.accesodatos\\d_detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|c:\\users\\fuaan\\source\\repos\\rigorigo\\rigorigo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0A71C-5770-4969-85CC-139B8CF612D8}|RigoRigo\\RigoRigo.csproj|solutionrelative:rigorigo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,47 +29,69 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 219,
+          "DockedWidth": 278,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "P_PruductoRigo.cs",
-              "DocumentMoniker": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\Presentacion\\P_PruductoRigo.cs",
-              "RelativeDocumentMoniker": "Presentacion\\P_PruductoRigo.cs",
-              "ToolTip": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\Presentacion\\P_PruductoRigo.cs",
-              "RelativeToolTip": "Presentacion\\P_PruductoRigo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Program.cs",
+              "RelativeDocumentMoniker": "RigoRigo\\Program.cs",
+              "ToolTip": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Program.cs",
+              "RelativeToolTip": "RigoRigo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:50:40.411Z",
+              "WhenOpened": "2024-09-10T15:06:31.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "N_DetallePedido.cs",
-              "DocumentMoniker": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\negocio\\N_DetallePedido.cs",
-              "RelativeDocumentMoniker": "negocio\\N_DetallePedido.cs",
-              "ToolTip": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\negocio\\N_DetallePedido.cs",
-              "RelativeToolTip": "negocio\\N_DetallePedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RigoRigo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RigoRigo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:24:21.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T04:32:30.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D_DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo.AccesoDatos\\D_DetallePedido.cs",
+              "RelativeDocumentMoniker": "RigoRigo.AccesoDatos\\D_DetallePedido.cs",
+              "ToolTip": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo.AccesoDatos\\D_DetallePedido.cs",
+              "RelativeToolTip": "RigoRigo.AccesoDatos\\D_DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:19:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Startup.cs",
+              "RelativeDocumentMoniker": "RigoRigo\\Startup.cs",
+              "ToolTip": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Startup.cs",
+              "RelativeToolTip": "RigoRigo\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:51:43.293Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "D_DetallePedido.cs",
-              "DocumentMoniker": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\accesoDatos\\D_DetallePedido.cs",
-              "RelativeDocumentMoniker": "accesoDatos\\D_DetallePedido.cs",
-              "ToolTip": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\accesoDatos\\D_DetallePedido.cs",
-              "RelativeToolTip": "accesoDatos\\D_DetallePedido.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Title": "ProductosController .cs",
+              "DocumentMoniker": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Controllers\\ProductosController .cs",
+              "RelativeDocumentMoniker": "RigoRigo\\Controllers\\ProductosController .cs",
+              "ToolTip": "C:\\Users\\fuaan\\source\\repos\\RigoRigo\\RigoRigo\\Controllers\\ProductosController .cs",
+              "RelativeToolTip": "RigoRigo\\Controllers\\ProductosController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T03:24:35.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T03:51:36.494Z"
             }
           ]
         }

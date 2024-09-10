@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wrYrdJHLQk=",
+  "dgSpecHash": "/F7KEOOuNzQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\negocio\\Negocio.csproj",
+  "projectFilePath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuaan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\fuaan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

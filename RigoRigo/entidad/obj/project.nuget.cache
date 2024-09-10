@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c16clCJjMOA=",
+  "dgSpecHash": "vpTfcNbes+I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\entidad\\Entidad.csproj",
+  "projectFilePath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\entidad\\Entidad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuaan\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\fuaan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

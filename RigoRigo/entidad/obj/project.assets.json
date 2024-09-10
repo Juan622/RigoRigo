@@ -1059,11 +1059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\entidad\\Entidad.csproj",
+      "projectUniqueName": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\entidad\\Entidad.csproj",
       "projectName": "Entidad",
-      "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\entidad\\Entidad.csproj",
+      "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\entidad\\Entidad.csproj",
       "packagesPath": "C:\\Users\\fuaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\entidad\\obj\\",
+      "outputPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\entidad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fuaan\\AppData\\Roaming\\NuGet\\NuGet.Config",

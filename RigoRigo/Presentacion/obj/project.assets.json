@@ -3379,11 +3379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\Presentacion\\Presentacion.csproj",
+      "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\fuaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fuaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3401,8 +3401,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\negocio\\Negocio.csproj"
+            "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\negocio\\Negocio.csproj"
             }
           }
         }

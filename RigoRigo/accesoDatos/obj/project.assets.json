@@ -3340,11 +3340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\accesoDatos\\AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\accesoDatos\\AccesoDatos.csproj",
       "projectName": "AccesoDatos",
-      "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\accesoDatos\\AccesoDatos.csproj",
+      "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\accesoDatos\\AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\fuaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\accesoDatos\\obj\\",
+      "outputPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\accesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fuaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3362,8 +3362,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\entidad\\Entidad.csproj": {
-              "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\RigoRigo\\entidad\\Entidad.csproj"
+            "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\fuaan\\Desktop\\ProyectoRigo\\Prueba\\RigoRigo\\entidad\\Entidad.csproj"
             }
           }
         }
